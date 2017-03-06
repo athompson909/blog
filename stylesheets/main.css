@@ -143,7 +143,7 @@ hr {
 }
 
 .middle-row {
-  margin: 0 auto;
+  margin: 0 auto 60px auto;
   width: 75%;
   background-color: #eee;
 }
